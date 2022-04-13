@@ -394,4 +394,13 @@ var films = [
         release_date: 1508893200,
         genres: ["Action", "Adventure", "Comedy", "Fantasy"],
     },
+    {
+        id: "284053",
+        title: "Thor: Ragnarok",
+        poster: "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+        overview:
+            "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+        release_date: 1508893200,
+        genres: ["Action", "Adventure", "Comedy", "Fantasy"],
+    },
 ];
